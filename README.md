@@ -30,6 +30,10 @@ Powered Minifier allows you to reduce your page load and increase your performan
 
 ## Changelog
 
+### 1.8.5 (2025-12-29)
+
+- Code revision and optimization
+
 ### 1.8.4 (2025-12-17)
 
 - Code revision and optimization

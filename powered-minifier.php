@@ -15,7 +15,7 @@
  * Plugin Name: Powered Minifier
  * Plugin URI: https://wordpress.org/plugins/powered-minifier/
  * Description: Powered Minifier allow you to reduce your page load and increase your performance by minifying your HTML source along with all the CSS and JS code present in your markup.
- * Version: 1.8.4
+ * Version: 1.8.5
  * Author: NeosLab
  * Author URI: https://neoslab.com
  * License: GPL-2.0+
@@ -37,7 +37,7 @@ if(!defined('WPINC'))
  * Start at version 1.0.0 and use SemVer - https://semver.org
  * Rename this for your plugin and update it as you release new versions
 */
-define('POWERED_MINIFIER_VERSION', '1.8.4');
+define('POWERED_MINIFIER_VERSION', '1.8.5');
 
 /**
  * The code that runs during plugin activation
