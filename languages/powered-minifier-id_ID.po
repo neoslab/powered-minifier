@@ -7,12 +7,12 @@ msgstr ""
 "POT-Creation-Date: 2026-03-03 13:14:52+00:00\n"
 "PO-Revision-Date: 2026-03-03 14:00:00+00:00\n"
 "Last-Translator: \n"
-"Language-Team: Spanish\n"
-"Language: es_ES\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: admin/class-powered-minifier-admin.php:74
 msgid "Powered Minifier"
@@ -20,131 +20,131 @@ msgstr "Powered Minifier"
 
 #: admin/class-powered-minifier-admin.php:86
 msgid "Settings"
-msgstr "Ajustes"
+msgstr "Pengaturan"
 
 #: admin/partials/powered-minifier-admin-options.php:4
 msgid "Your settings have been successfully updated."
-msgstr "Tus ajustes han sido actualizados correctamente."
+msgstr "Pengaturan Anda berhasil diperbarui."
 
 #: admin/partials/powered-minifier-admin-options.php:23
 msgid "You have not set up your minifier options ! In order to do so, please use the below form."
-msgstr "¡No has configurado tus opciones de minificación! Para hacerlo, utiliza el siguiente formulario."
+msgstr "Anda belum mengatur opsi minifier! Untuk melakukannya, silakan gunakan formulir di bawah ini."
 
 #: admin/partials/powered-minifier-admin-options.php:28
 msgid "Your plugin is properly configured ! You can change at anytime your minifier options using the below form."
-msgstr "¡Tu plugin está configurado correctamente! Puedes cambiar en cualquier momento tus opciones de minificación utilizando el siguiente formulario."
+msgstr "Plugin Anda telah dikonfigurasi dengan benar! Anda dapat mengubah kapan saja opsi minifier menggunakan formulir di bawah ini."
 
 #: admin/partials/powered-minifier-admin-options.php:37
 msgid "Minify HTML"
-msgstr "Minificar HTML"
+msgstr "Minifikasi HTML"
 
 #: admin/partials/powered-minifier-admin-options.php:45
 msgid "Do you want to minify your HTML HTML source ?"
-msgstr "¿Deseas minificar tu código fuente HTML?"
+msgstr "Apakah Anda ingin meminifikasi sumber HTML Anda?"
 
 #: admin/partials/powered-minifier-admin-options.php:49
 msgid "Minification Level"
-msgstr "Nivel de Minificación"
+msgstr "Tingkat Minifikasi"
 
 #: admin/partials/powered-minifier-admin-options.php:53
 msgid "Low (higher readability)"
-msgstr "Bajo (mayor legibilidad)"
+msgstr "Rendah (keterbacaan lebih tinggi)"
 
 #: admin/partials/powered-minifier-admin-options.php:54
 msgid "Highest (no readability, smallest size)"
-msgstr "Alto (sin legibilidad, tamaño mínimo)"
+msgstr "Tinggi (tanpa keterbacaan, ukuran terkecil)"
 
 #: admin/partials/powered-minifier-admin-options.php:76
 msgid "Minify CSS"
-msgstr "Minificar CSS"
+msgstr "Minifikasi CSS"
 
 #: admin/partials/powered-minifier-admin-options.php:84
 msgid "Do you want to minify the CSS code present in the HTML source ?"
-msgstr "¿Deseas minificar el código CSS presente en el código fuente HTML?"
+msgstr "Apakah Anda ingin meminifikasi kode CSS yang ada dalam sumber HTML?"
 
 #: admin/partials/powered-minifier-admin-options.php:88
 msgid "Minify JS"
-msgstr "Minificar JS"
+msgstr "Minifikasi JS"
 
 #: admin/partials/powered-minifier-admin-options.php:96
 msgid "Do you want to minify the JS code present in the HTML source ?"
-msgstr "¿Deseas minificar el código JS presente en el código fuente HTML?"
+msgstr "Apakah Anda ingin meminifikasi kode JS yang ada dalam sumber HTML?"
 
 #: admin/partials/powered-minifier-admin-options.php:100
 msgid "Remove HTML / CSS and JS Comments"
-msgstr "Eliminar Comentarios HTML/CSS/JS"
+msgstr "Hapus Komentar HTML/CSS/JS"
 
 #: admin/partials/powered-minifier-admin-options.php:108
 msgid "Do you want to remove the HTML / CSS and JS comments from the HTML source ?"
-msgstr "¿Deseas eliminar los comentarios HTML/CSS/JS del código fuente HTML?"
+msgstr "Apakah Anda ingin menghapus komentar HTML/CSS/JS dari sumber HTML?"
 
 #: admin/partials/powered-minifier-admin-options.php:112
 msgid "Remove HTML / CSS and JS empty lines"
-msgstr "Eliminar líneas vacías HTML/CSS/JS"
+msgstr "Hapus baris kosong HTML/CSS/JS"
 
 #: admin/partials/powered-minifier-admin-options.php:120
 msgid "Do you want to remove the HTML / CSS and JS empty lines from the HTML source ?"
-msgstr "¿Deseas eliminar las líneas vacías HTML/CSS/JS del código fuente HTML?"
+msgstr "Apakah Anda ingin menghapus baris kosong HTML/CSS/JS dari sumber HTML?"
 
 #: admin/partials/powered-minifier-admin-options.php:124
 msgid "Remove XHTML closing tag from HTML5 void elements"
-msgstr "Eliminar etiqueta de cierre XHTML de elementos vacíos HTML5"
+msgstr "Hapus tag penutup XHTML dari elemen void HTML5"
 
 #: admin/partials/powered-minifier-admin-options.php:132
 msgid "Do you want to remove the XHTML closing tag ? (If you are not sure leave \"ON\")"
-msgstr "¿Deseas eliminar la etiqueta de cierre XHTML? (Si no estás seguro, deja \"ON\")"
+msgstr "Apakah Anda ingin menghapus tag penutup XHTML? (Jika tidak yakin, biarkan \"ON\")"
 
 #: admin/partials/powered-minifier-admin-options.php:136
 msgid "Remove relative domain from internal URLs"
-msgstr "Eliminar dominio relativo de URLs internas"
+msgstr "Hapus domain relatif dari URL internal"
 
 #: admin/partials/powered-minifier-admin-options.php:144
 msgid "Do you want to remove the relative domain from the internal URLs ? (If you are not sure leave \"OFF\")"
-msgstr "¿Deseas eliminar el dominio relativo de las URLs internas? (Si no estás seguro, deja \"OFF\")"
+msgstr "Apakah Anda ingin menghapus domain relatif dari URL internal? (Jika tidak yakin, biarkan \"OFF\")"
 
 #: admin/partials/powered-minifier-admin-options.php:148
 msgid "Remove HTTP/HTTPS from all URLs"
-msgstr "Eliminar HTTP/HTTPS de todas las URLs"
+msgstr "Hapus HTTP/HTTPS dari semua URL"
 
 #: admin/partials/powered-minifier-admin-options.php:156
 msgid "Do you want to remove the HTTP & HTTPS schemes from all URLs ? (If you are not sure leave \"OFF\")"
-msgstr "¿Deseas eliminar los protocolos HTTP/HTTPS de todas las URLs? (Si no estás seguro, deja \"OFF\")"
+msgstr "Apakah Anda ingin menghapus skema HTTP & HTTPS dari semua URL? (Jika tidak yakin, biarkan \"OFF\")"
 
 #: admin/partials/powered-minifier-admin-options.php:160
 msgid "Support Multi-Byte UTF-8 encoding"
-msgstr "Soporte codificación multi-byte UTF-8"
+msgstr "Dukung encoding Multi-Byte UTF-8"
 
 #: admin/partials/powered-minifier-admin-options.php:168
 msgid "Do you want to support multi-byte encoding if you see odd encoding ? (If you are not sure leave \"OFF\")"
-msgstr "¿Deseas soportar codificación multi-byte si ves codificación extraña? (Si no estás seguro, deja \"OFF\")"
+msgstr "Apakah Anda ingin mendukung encoding multi-byte jika Anda melihat encoding aneh? (Jika tidak yakin, biarkan \"OFF\")"
 
 #: admin/partials/powered-minifier-admin-options.php:172
 msgid "Display Stats"
-msgstr "Mostrar Estadísticas"
+msgstr "Tampilkan Statistik"
 
 #: admin/partials/powered-minifier-admin-options.php:180
 msgid "Do you want to display the minification stats at the bottom of the HTML source ?"
-msgstr "¿Deseas mostrar las estadísticas de minificación al final del código fuente HTML?"
+msgstr "Apakah Anda ingin menampilkan statistik minifikasi di bagian bawah sumber HTML?"
 
 #: admin/partials/powered-minifier-admin-options.php:184
 msgid "Debug Comments"
-msgstr "Comentarios de Depuración"
+msgstr "Komentar Debug"
 
 #: admin/partials/powered-minifier-admin-options.php:192
 msgid "Do you want to display the debug html comments at the header and footer of the HTML source ?"
-msgstr "¿Deseas mostrar los comentarios HTML de depuración en el encabezado y pie del código fuente HTML?"
+msgstr "Apakah Anda ingin menampilkan komentar HTML debug di header dan footer sumber HTML?"
 
 #: admin/partials/powered-minifier-admin-options.php:196
 msgid "Console Load Time"
-msgstr "Tiempo de Carga en Consola"
+msgstr "Waktu Muat Konsol"
 
 #: admin/partials/powered-minifier-admin-options.php:204
 msgid "Do you want to display the page loading time into your browser console ? (If you are not sure leave \"OFF\")"
-msgstr "¿Deseas mostrar el tiempo de carga de la página en la consola de tu navegador? (Si no estás seguro, deja \"OFF\")"
+msgstr "Apakah Anda ingin menampilkan waktu muat halaman ke konsol browser Anda? (Jika tidak yakin, biarkan \"OFF\")"
 
 #: admin/partials/powered-minifier-admin-options.php:208
 msgid "Update Settings"
-msgstr "Actualizar Ajustes"
+msgstr "Perbarui Pengaturan"
 
 #. Plugin URI of the plugin/theme
 msgid "https://wordpress.org/plugins/powered-minifier/"
@@ -152,7 +152,7 @@ msgstr "https://wordpress.org/plugins/powered-minifier/"
 
 #. Description of the plugin/theme
 msgid "Powered Minifier allow you to reduce your page load and increase your performance by minifying your HTML source along with all the CSS and JS code present in your markup."
-msgstr "Powered Minifier te permite reducir la carga de tu página y aumentar el rendimiento minificando tu código fuente HTML junto con todo el código CSS y JS presente en tu marcado."
+msgstr "Powered Minifier memungkinkan Anda mengurangi muat halaman dan meningkatkan kinerja dengan meminifikasi sumber HTML Anda bersama dengan semua kode CSS dan JS yang ada dalam markup Anda."
 
 #. Author of the plugin/theme
 msgid "NeosLab"

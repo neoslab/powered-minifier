@@ -30,6 +30,16 @@ Powered Minifier allows you to reduce your page load and increase your performan
 
 ## Changelog
 
+### 1.8.6 (2026-03-03)
+
+- Fontawesome update
+- Updated ES translation
+- Updated FR translation
+- Updated ID translation
+- Updated IT translation
+- Updated PT translation
+- Code revision and optimization
+
 ### 1.8.5 (2025-12-29)
 
 - Code revision and optimization

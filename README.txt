@@ -2,8 +2,8 @@
 Contributors: NeosLab
 Tags: minify, optimize, html, css, js
 Requires at least: 4.9
-Tested up to: 6.9.0
-Stable tag: 1.8.5
+Tested up to: 6.9.1
+Stable tag: 1.8.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -25,6 +25,10 @@ Powered Minifier allow you to reduce your page load and increase your performanc
 2. A screenshot of the code source of a minified page.
 
 == Changelog ==
+
+= 1.8.6 (2026-03-03) =
+* Fontawesome update
+* Code revision and optimization
 
 = 1.8.5 (2025-12-29) =
 * Code revision and optimization
